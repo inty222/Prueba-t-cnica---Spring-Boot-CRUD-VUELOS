@@ -1,0 +1,83 @@
+{
+	"info": {
+		"_postman_id": "db11c3bd-5b53-4c01-b5a3-e9e774432f64",
+		"name": "CRUD Vuelos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48155286",
+		"_collection_link": "https://intissarelmeskine-8949921.postman.co/workspace/charm's-Workspace~95babd91-c648-4e97-83b4-2559cae47879/collection/48155286-db11c3bd-5b53-4c01-b5a3-e9e774432f64?action=share&source=collection_link&creator=48155286"
+	},
+	"item": [
+		{
+			"name": "listar vuelos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ordenar por empresa",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ordenar por lugarLlegada",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "filtrar por fechaSalida",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "filtrar por empresa",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "obtener por id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "crear vuelos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "actualizar vuelo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "eliminar vuelos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
